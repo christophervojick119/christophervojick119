@@ -29,29 +29,46 @@ delivering software solutions on time and within budget, no matter the scope.
 ### Tech Stack:
 
 - Programming Languages & Frameworks
-&nbsp;&nbsp;o Ruby: Ruby on Rails, Sinatra, Spree/Solidus, Discourse, ActiveAdmin
-&nbsp;&nbsp;o JavaScript: ES6, CoffeeScript, TypeScript
-&nbsp;&nbsp;o Node.js: Express.js, Hapi.js, Sails.js, NestJS
-&nbsp;&nbsp;o Frontend:
-&nbsp;&nbsp;&nbsp;&nbsp;o Angular: Angular 1.x, Angular 2+
-&nbsp;&nbsp;&nbsp;&nbsp;o React.js: Next.js, Gatsby.js (SSR), React Hooks, Redux (Saga/Thunk/Rematch)
-&nbsp;&nbsp;&nbsp;&nbsp;o Vue.js: Nuxt.js, Vuetify
+    
+    Ruby: Ruby on Rails, Sinatra, Spree/Solidus, Discourse, ActiveAdmin
+    
+    JavaScript: ES6, CoffeeScript, TypeScript
+    
+    Node.js: Express.js, Hapi.js, Sails.js, NestJS
+
+    Frontend:
+
+        Angular: Angular 1.x, Angular 2+
+        React.js: Next.js, Gatsby.js (SSR), React Hooks, Redux (Saga/Thunk/Rematch)
+        Vue.js: Nuxt.js, Vuetify
 - Databases & Caching
-&nbsp;&nbsp;o Relational Databases: PostgreSQL, MySQL, MSSQL
-&nbsp;&nbsp;o NoSQL Databases: MongoDB, DynamoDB, CouchDB, Cassandra
-&nbsp;&nbsp;o Search Engines: Elasticsearch, AlgoliaSearch
-&nbsp;&nbsp;o Caching: Redis, Memcached
+    
+    Relational Databases: PostgreSQL, MySQL, MSSQL
+    
+    NoSQL Databases: MongoDB, DynamoDB, CouchDB, Cassandra
+    
+    Search Engines: Elasticsearch, AlgoliaSearch
+    
+    Caching: Redis, Memcached
 - Testing
-&nbsp;&nbsp;o Ruby Testing: RSpec, Cucumber, Minitest, Capybara, Selenium
-&nbsp;&nbsp;o JavaScript Testing: Cypress, Mocha/Chai, Jasmine, Jest, Karma
-&nbsp;&nbsp;o Other: Solidity (Smart Contract Testing), Zapier (Work Automation)
+    
+    Ruby Testing: RSpec, Cucumber, Minitest, Capybara, Selenium
+    
+    JavaScript Testing: Cypress, Mocha/Chai, Jasmine, Jest, Karma
+    
+    Other: Solidity (Smart Contract Testing), Zapier (Work Automation)
 - CSS & UI Frameworks
-&nbsp;&nbsp;o CSS Preprocessors: SASS, SCSS, LESS
-&nbsp;&nbsp;o UI Libraries: Material UI, Tailwind CSS, Chakra UI, Semantic UI, Ant Design, Styled Components
+    
+    CSS Preprocessors: SASS, SCSS, LESS
+    
+    UI Libraries: Material UI, Tailwind CSS, Chakra UI, Semantic UI, Ant Design, Styled Components
 - DevOps & Cloud
-&nbsp;&nbsp;o CI/CD: Jenkins, CircleCI, Travis CI, GitLab CI
-&nbsp;&nbsp;o Containerization & Orchestration: Docker, Kubernetes
-&nbsp;&nbsp;o Cloud Platforms: AWS, Azure, Heroku, DigitalOcean, Amplify
+    
+    CI/CD: Jenkins, CircleCI, Travis CI, GitLab CI
+    
+    Containerization & Orchestration: Docker, Kubernetes
+    
+    Cloud Platforms: AWS, Azure, Heroku, DigitalOcean, Amplify
 
 
 ### Let's Connect:
